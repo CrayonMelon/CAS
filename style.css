@@ -1,0 +1,114 @@
+body {
+ margin-top: 0px;
+ margin-right: 0px;
+ margin-bottom: 0px;
+ margin-left: 0px;
+
+     font-family: 'Roboto Slab', serif;
+
+
+   background-image: url("imgs/fancyBGround.png");
+   background-attachment: fixed;
+}
+p{
+	font-size: 1.1em;
+}
+a {
+	font-weight: bold;
+    color: #1a1a1a;
+}
+h2 {
+	font-size: 3em;
+}
+h3 {
+	font-size: 2.4em;
+}
+
+img {
+  max-width: 100%
+}
+ul {
+	font-size: 1.7em;
+}
+
+nav {
+	background-color:#ff6666;
+	text-align: center;
+
+	border-bottom: 6px solid #ffcccc;
+	position: fixed;
+	width:100%;
+	border-bottom: 6px solid #ff6666;
+	font-size: 1.5em;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    opacity: 0.7;
+    font-weight: bold;
+    color: #ed490a;
+}
+#imageFront {
+
+}
+
+#message {
+
+	background-color:#ff6666;
+	text-align: center;
+	height: 100%;
+		    font-size: 72px;
+
+	border-bottom: 6px solid #ffcccc;
+	vertical-align: top;
+}
+
+#noticeboard {
+	width:80%;
+	margin: auto;
+	background-color: #ffcccc;
+    padding:10px;
+    color: #1a1a1a;
+    padding:10px;
+    color: #1a1a1a;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-bottom: 6px solid #ff6666;
+    border-radius: 25px;
+   
+}
+
+#ShoolPeople {
+	width:80%;
+	margin: auto;
+	background-color: #ffcccc;
+    padding:10px;
+    color: #1a1a1a;
+    padding:10px;
+    color: #1a1a1a;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-bottom: 6px solid #ff6666;
+    border-radius: 25px;
+   
+}
+
+#initative {
+	width:80%;
+	margin: auto;
+	background-color: #ffcccc;
+    padding:10px;
+    color: #1a1a1a;
+    padding:10px;
+    color: #1a1a1a;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-bottom: 6px solid #ff6666;
+    border-radius: 25px;
+   
+}
+iframe {
+    display:block;
+    margin: 0 auto;
+    margin-top: 15px;
+    padding: 20px;
+}
